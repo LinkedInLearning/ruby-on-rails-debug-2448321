@@ -1,7 +1,10 @@
 # Ruby on Rails: Debugging
-This is the repository for the LinkedIn Learning course `Ruby on Rails: Debugging`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Ruby on Rails: Debugging. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+![Ruby on Rails: Debugging][lil-thumbnail-url] 
+
+Fixing bugs is one of the most in-demand (and frustrating) skills for developers. Just when your application seems to be running smoothly—a bug appears. Where did it come from? Is it your code? A bug in the framework? Where do you even start looking for the solution? In this course, David Morales takes a hands-on approach to guide you through techniques and tools you can use to fix bugs with ease. Bugs may be unavoidable, but learning David’s bug detection and troubleshooting techniques can give you confidence and skills that are in demand today for any Ruby on Rails developer.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -21,14 +24,18 @@ To resolve this issue:
 	Commit changes using this command: git commit -m "some message"
 
 ## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+1. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+David Morales 
+                            
+Web Developer & Technical Instructor
 
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/david-morales).
+
+[lil-course-url]: https://www.linkedin.com/learning/ruby-on-rails-debugging
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2448321/2448321-1655317401534-16x9.jpg
